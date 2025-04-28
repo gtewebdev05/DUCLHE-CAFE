@@ -38,6 +38,7 @@
     cursor: pointer;
 }
 
+
 @media only screen and (max-width: 768px){
     .btns-container {
         height: 50px;

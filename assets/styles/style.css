@@ -6,6 +6,8 @@
 @import "card.css";
 @import "category.css";
 @import "about.css";
+@import "purchase.css";
+@import "thxpurchase.css";
 
 
 * {
@@ -18,6 +20,9 @@
 html, body {
     font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     overflow-x: hidden;
+}
+.card-nav {
+    text-align: center;
 }
 .container {
     max-width: 1280px;

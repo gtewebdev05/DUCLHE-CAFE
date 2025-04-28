@@ -1,0 +1,16 @@
+.hero-title {
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title h1 {
+    font-size: 80px;
+    color: rgb(181, 56, 77);
+}
+.hero-title1 {
+    max-width:500px;
+    padding-top: 5px;
+}
+.hero-title1 h1 {
+    font-size: 80px;
+    color: rgb(118, 63, 8);
+}

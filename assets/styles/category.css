@@ -14,3 +14,60 @@
     font-size: 80px;
     color: rgb(118, 63, 8);
 }
+.hero-title2 {
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title2 h1 {
+    font-size: 80px;
+    color: #967969
+}
+
+.hero-title3{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title3 h1{
+    font-size: 80px;
+    color: #D7E8BA;
+}
+.hero-tile4{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title4 h1{
+    font-size: 80px;
+    color: #F3E5AB;
+}
+.hero-title5{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title5 h1{
+    font-size: 80px;
+    color:#4B3621
+}
+.hero-title6{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title6 h1{
+    font-size: 80px;
+    color: #Ffd59a;
+}
+.hero-tile7{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title7 h1{
+    font-size: 80px;
+    color: #E6CEA0;
+}
+.hero-title8{
+    max-width: 500px;
+    padding-top: 5px;
+}
+.hero-title8 h1{
+    font-size: 80px;
+    color: #4B3621;
+}
